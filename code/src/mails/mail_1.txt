@@ -1,0 +1,40 @@
+Subject: Re: Adjustment Request
+
+Body:
+Hi Team,
+
+I hope this email finds you well. I am writing to request an adjustment to our current agreement. Below are the details of the requested changes:
+
+1. **Adjustment**:
+   - Amount: $3,000.00
+   - Reason: Correction of previous transaction error.
+
+Please find the attached documents for further details and supporting information.
+
+Best regards,
+Alice Johnson
+Finance Manager
+Tech Solutions
+
+---
+
+Subject: Adjustment Request
+
+Body:
+Dear Alice,
+
+Thank you for your email. We have reviewed your request for the adjustment. Here are our findings and next steps:
+
+1. **Adjustment**:
+   - Approved Amount: $3,000.00
+   - Effective Date: 2025-04-01
+
+Please confirm the acceptance of these terms at your earliest convenience.
+
+Best regards,
+Bob Smith
+Accountant
+Finance Corp
+
+Attachments:
+1. Adjustment_Details.pdf

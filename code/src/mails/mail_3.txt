@@ -1,0 +1,42 @@
+Subject: Re: Money Movement Request
+
+Body:
+Hi Team,
+
+I hope this email finds you well. I am writing to request a money movement to our account. Below are the details of the requested transaction:
+
+1. **Money Movement**:
+   - Amount Received: $10,000.00
+   - Type: Principal and Interest
+   - Reason: Scheduled payment for loan.
+
+Please find the attached documents for further details and supporting information.
+
+Best regards,
+Eve Adams
+Treasurer
+Global Ventures
+
+---
+
+Subject: Money Movement Request
+
+Body:
+Dear Eve,
+
+Thank you for your email. We have reviewed your request for the money movement. Here are our findings and next steps:
+
+1. **Money Movement-Inbound**:
+   - Approved Amount: $10,000.00
+   - Type: Principal and Interest
+   - Effective Date: 2025-06-01
+
+Please confirm the acceptance of these terms at your earliest convenience.
+
+Best regards,
+Frank Castle
+Bank Manager
+Secure Bank
+
+Attachments:
+1. Money_Movement_Details.pdf
