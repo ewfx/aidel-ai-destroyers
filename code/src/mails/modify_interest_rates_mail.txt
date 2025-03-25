@@ -77,3 +77,33 @@ Best regards,
 John Smith
 ABC Bank
 
+---
+
+**Subject:** Re: Request for Interest Rate Modification – Loan #456789
+
+**From:** John Smith <john.smith@abcbank.com>
+**To:** Sarah Johnson <sarah.johnson@xyzcorp.com>
+**Date:** March 7, 2024 09:00:05.123
+
+Dear Ms. Johnson,
+
+We have reviewed the financials and are available for the call on March 8 at 2 PM EST. We will discuss potential modifications and next steps. Looking forward to our discussion.
+
+Best regards,
+John Smith
+ABC Bank
+
+---
+
+**From:** John Smith <john.smith@abcbank.com>
+**To:** Sarah Johnson <sarah.johnson@xyzcorp.com>
+**Date:** March 5, 2024 06:00:05.123
+
+Dear Ms. Johnson,
+
+I hope this email finds you well. We have reviewed your request regarding the modification of the interest rate on your commercial loan #456789. Please provide updated financial statements for our assessment. Let us know a convenient time for a call to discuss further.
+
+Best regards,
+John Smith
+Commercial Loan Officer
+ABC Bank
