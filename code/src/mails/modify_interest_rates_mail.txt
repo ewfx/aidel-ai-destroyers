@@ -2,7 +2,7 @@
 
 **From:** John Smith <john.smith@abcbank.com>
 **To:** Sarah Johnson <sarah.johnson@xyzcorp.com>
-**Date:** March 5, 2024
+**Date:** March 5, 2024 06:00:05.123
 
 Dear Ms. Johnson,
 
@@ -19,7 +19,7 @@ ABC Bank
 
 **From:** Sarah Johnson <sarah.johnson@xyzcorp.com>
 **To:** John Smith <john.smith@abcbank.com>
-**Date:** March 6, 2024
+**Date:** March 6, 2024 06:00:05.123
 
 Dear Mr. Smith,
 
@@ -35,7 +35,7 @@ XYZ Corporation
 
 **From:** John Smith <john.smith@abcbank.com>
 **To:** David Rogers <david.rogers@abcbank.com>
-**Date:** March 7, 2024
+**Date:** March 7, 2024 08:00:05.123
 
 Hi David,
 
@@ -50,7 +50,7 @@ John
 
 **From:** David Rogers <david.rogers@abcbank.com>
 **To:** John Smith <john.smith@abcbank.com>
-**Date:** March 7, 2024
+**Date:** March 7, 2024 08:00:05.123
 
 Hi John,
 
@@ -67,7 +67,7 @@ ABC Bank
 
 **From:** John Smith <john.smith@abcbank.com>
 **To:** Sarah Johnson <sarah.johnson@xyzcorp.com>
-**Date:** March 7, 2024
+**Date:** March 7, 2024 09:00:05.123
 
 Dear Ms. Johnson,
 
