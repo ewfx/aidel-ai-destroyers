@@ -1,0 +1,25 @@
+To: WELLS FARGO BANK, N.A.
+Date: 05-Apr-2025
+ATTN: AGENT DEFAULT
+Phone: 800-987-6543
+Fax: 877-210-3456
+Email: servicing@wellsfargo.com
+
+Re: SOFR TERM PAYMENT - OMEGA INVESTMENTS
+
+Deal CUSIP: 789456C12
+Deal ISIN: US7894561234
+Facility CUSIP: 789456D34
+Facility ISIN: US8765432109
+Lender MEI: US3ABC
+
+Effective 08-Apr-2025, OMEGA INVESTMENTS has repaid USD 10,500,000.00 under the SOFR term option.
+
+Previous Principal Balance: USD 35,000,000.00
+
+New Principal Balance: USD 24,500,000.00
+
+Your Share of Payment: USD 987,654.32
+
+Payment will be remitted to your designated account per the credit agreement.
+

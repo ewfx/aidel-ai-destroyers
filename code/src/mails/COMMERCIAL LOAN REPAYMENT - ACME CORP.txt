@@ -1,0 +1,38 @@
+To: JPMORGAN CHASE BANK, N.A.
+Date: 15-Mar-2025
+ATTN: LOAN SERVICING TEAM
+Phone: 888-123-4567
+Fax: 877-555-7890
+Email: finance@bankabc.com
+
+Re: COMMERCIAL LOAN REPAYMENT - ACME CORP
+
+Deal CUSIP: 123456A01
+Deal ISIN: US1234567890
+Facility CUSIP: 123456B02
+Facility ISIN: US0987654321
+Lender MEI: US1XYZ
+
+Effective 18-Mar-2025, ACME CORP has elected to repay under the SOFR (US) Term option, a total of USD 15,000,000.00.
+
+Previous Global Principal Balance: USD 60,000,000.00
+
+New Global Principal Balance: USD 45,000,000.00
+
+Your Share of Repayment: USD 1,050,321.45
+
+Previous Lender Share Principal Balance: USD 5,250,000.00
+
+New Lender Share Principal Balance: USD 4,199,678.55
+
+This loan was effective 15-Aug-2024 and is scheduled to reprice on 25-Mar-2025.
+
+Payment Details:
+
+Bank Name: JPMORGAN CHASE BANK, N.A.
+
+ABA Number: 11122233
+
+Account Number: XXXXXXXXXX9876
+
+Reference: ACME CORP COMMERCIAL LOAN TERM PAYMENT

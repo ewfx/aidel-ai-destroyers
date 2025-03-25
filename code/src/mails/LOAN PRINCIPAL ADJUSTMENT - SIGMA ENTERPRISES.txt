@@ -1,0 +1,24 @@
+To: GOLDMAN SACHS BANK USA
+Date: 30-May-2025
+ATTN: DEBT CAPITAL MARKETS TEAM
+Phone: 855-789-6543
+Fax: 877-543-2109
+Email: debtmarkets@goldmansachs.com
+
+Re: LOAN PRINCIPAL ADJUSTMENT - SIGMA ENTERPRISES
+
+Deal CUSIP: 987654G78
+Deal ISIN: US9876543210
+Facility CUSIP: 987654H90
+Facility ISIN: US8765432198
+Lender MEI: US5XYZ
+
+Effective 02-Jun-2025, SIGMA ENTERPRISES has made a principal adjustment of USD 25,000,000.00 under the floating rate loan structure.
+
+Previous Loan Balance: USD 75,000,000.00
+
+New Loan Balance: USD 50,000,000.00
+
+Next Interest Rate Adjustment Date: 15-Jul-2025
+
+Funds will be processed via wire transfer per the existing loan agreement.
