@@ -16,6 +16,7 @@ def get_request_types(mail_content, file_name):
     prompt = f"""
         **Task**: Process the following email content, and the attachments after deciding their type like pdf or eml or anything to extract request types, subtypes, the confidence score for that along with the reasoning, and other valuable information.
         Also remove duplicate emails based on their content.
+        Prioritize the main gemail content over the attachments content.
         The request types and subtypes are as follows, and they should be populated in all cases:
         "Adjustment": [],
         "AU Transfer": [],
