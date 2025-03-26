@@ -58,3 +58,6 @@ Describe the major technical or non-technical challenges your team encountered.
 ## 👥 Team
 - **Subramanyam Davala** - [GitHub](#) | [LinkedIn](#)
 - **Jasbinder Singh Loomba** - [GitHub](#) | [LinkedIn](#)
+- **Sravan Kumar Shetty** - [GitHub](#) | [LinkedIn](#)
+- **Pramod Juvvi** - [GitHub](#) | [LinkedIn](#)
+- **Asi Prasanna Kumar Reddy** - [GitHub](#) | [LinkedIn](#)
