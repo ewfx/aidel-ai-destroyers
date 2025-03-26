@@ -30,7 +30,7 @@ def get_request_types(mail_content, file_name):
         {mail_content}
 
         **Output Format**:
-        Just give output in this format with nothing else. No need to write json or anything.
+        Just give output in this format with nothing else. No need to write json or ``` or anything.
         {{
           "request_types": [
             {{
