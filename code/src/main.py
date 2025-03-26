@@ -3,6 +3,9 @@ from time import sleep
 
 from dotenv import load_dotenv
 from google import genai
+
+from process_email import process_eml_file
+
 load_dotenv()
 
 
@@ -58,6 +61,7 @@ def get_request_types(mail_content, file_name):
 
 mails_dir = 'mails'
 for mail_file in os.listdir(mails_dir):
-    with open(os.path.join(mails_dir, mail_file), 'r') as file:
-        content = file.read()
-        get_request_types(content, file.name)
+    if mail_file.endswith('.eml'):
+        content = process_eml_file(os.path.join(mails_dir, mail_file))
+        print(content)
+        get_request_types(content, mail_file)
