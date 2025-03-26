@@ -64,5 +64,4 @@ mails_dir = 'mails'
 for mail_file in os.listdir(mails_dir):
     if mail_file.endswith('.eml'):
         content = process_eml_file(os.path.join(mails_dir, mail_file))
-        print(content)
         get_request_types(content, mail_file)
