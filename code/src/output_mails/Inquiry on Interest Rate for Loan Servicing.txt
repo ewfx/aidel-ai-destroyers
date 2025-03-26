@@ -1,0 +1,19 @@
+```
+{
+  "request_types": [
+    {
+      "type": "Adjustment",
+      "subtype": [],
+      "confidence_score": "0.6",
+      "reasoning": "The email discusses interest rates and potential negotiation, indicating a possible adjustment to loan terms."
+    }
+  ],
+  "extracted_information": {
+    "interest_rate": "5.2%",
+    "loan_term": "10-year term",
+    "variable_rate_start": "4.8%",
+    "early_repayment_discount": "0.25%"
+  },
+  "duplicate_emails": []
+}
+```

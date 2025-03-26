@@ -1,0 +1,16 @@
+```json
+{
+  "request_types": [
+    {
+      "type": "Adjustment",
+      "subtype": [],
+      "confidence_score": "0.95",
+      "reasoning": "The email thread explicitly discusses an interest rate adjustment for a commercial loan, triggered by changes in market conditions."
+    }
+  ],
+  "extracted_information": {
+    "loan_number": "56789"
+  },
+  "duplicate_emails": []
+}
+```

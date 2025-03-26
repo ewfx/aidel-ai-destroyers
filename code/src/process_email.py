@@ -1,3 +1,4 @@
+import os
 import fitz  # PyMuPDF
 from email import policy
 from email.parser import BytesParser
@@ -51,6 +52,7 @@ def process_eml_file(eml_path):
             nested_email_content, nested_attachments = process_eml_file(filename)
             attachment_texts[filename] = nested_email_content
             attachment_texts.update(nested_attachments)
+        os.remove(filename)  # Remove the file after processing
 
     content = "Email Content:\n" + email_content
     for filename, text in attachment_texts.items():

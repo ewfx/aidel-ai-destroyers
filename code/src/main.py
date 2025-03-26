@@ -41,7 +41,7 @@ def get_request_types(mail_content, file_name):
             }},
             {{
               "type": "Commitment Change",
-              "subtype": "Reallocation Fees",
+              "subtype": "Cashless Roll",
               "confidence_score": "0.75",
               "reasoning": "Reasoning for the same"
             }}
@@ -56,7 +56,7 @@ def get_request_types(mail_content, file_name):
 
     response = chat.send_message(prompt)
     sleep(5)
-    with open(os.path.join('output_mails', file_name), 'w') as op_file:
+    with open(os.path.join('output_mails', file_name.replace('.eml', '.txt')), 'w') as op_file:
         print('Processed: ', file_name)
         op_file.write(response.text)
 

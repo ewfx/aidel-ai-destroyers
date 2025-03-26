@@ -1,0 +1,32 @@
+```json
+{
+  "request_types": [
+    {
+      "type": "Adjustment",
+      "subtype": [],
+      "confidence_score": "0.95",
+      "reasoning": "The email explicitly mentions a 'principal adjustment' and provides details about previous and new loan balances."
+    },
+    {
+      "type": "Commitment Change",
+      "subtype": ["Decrease"],
+      "confidence_score": "0.85",
+      "reasoning": "The reduction in the loan balance from USD 75,000,000.00 to USD 50,000,000.00 indicates a decrease in commitment."
+    }
+  ],
+  "extracted_information": {
+    "Deal CUSIP": "987654G78",
+    "Deal ISIN": "US9876543210",
+    "Facility CUSIP": "987654H90",
+    "Facility ISIN": "US8765432198",
+    "Lender MEI": "US5XYZ",
+    "effective_date": "02-Jun-2025",
+    "adjustment_amount": "25,000,000.00",
+    "currency": "USD",
+    "previous_loan_balance": "75,000,000.00",
+    "new_loan_balance": "50,000,000.00",
+    "next_interest_rate_adjustment_date": "15-Jul-2025"
+  },
+  "duplicate_emails": []
+}
+```

@@ -1,0 +1,21 @@
+```
+{
+  "request_types": [
+    {
+      "type": "Adjustment",
+      "subtype": [],
+      "confidence_score": "0.95",
+      "reasoning": "The email content explicitly mentions a request regarding the modification of the interest rate, which falls under the 'Adjustment' request type."
+    }
+  ],
+  "extracted_information": {
+    "loan_number": "456789",
+    "interest_rate_modification": "requested",
+    "financial_statements": "provided"
+  },
+  "duplicate_emails": [
+    "Re: Request for Interest Rate Modification – Loan #456789 (Duplicate of Request for Interest Rate Modification – Loan #456789)",
+    "Re: Request for Interest Rate Modification – Loan #456789 (Duplicate of Re: Request for Interest Rate Modification – Loan #456789)"
+  ]
+}
+```

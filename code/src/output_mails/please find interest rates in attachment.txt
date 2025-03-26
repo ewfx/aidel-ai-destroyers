@@ -1,0 +1,30 @@
+```
+{
+  "request_types": [
+    {
+      "type": "Adjustment",
+      "subtype": [],
+      "confidence_score": "0.95",
+      "reasoning": "The attached PDF contains information about a commercial loan adjustment, including changes to the interest rate and loan balance."
+    },
+    {
+      "type": "Commitment Change",
+      "subtype": ["Decrease"],
+      "confidence_score": "0.85",
+      "reasoning": "The New Loan Balance is less than the Previous Loan Balance, indicating a decrease in commitment."
+    }
+  ],
+  "extracted_information": {
+    "Loan Account Number": "789456123",
+    "Borrower Name": "Acme Corporation",
+    "Previous Interest Rate": "5.25%",
+    "New Interest Rate": "5.75%",
+    "Principal Amount": "USD 50,000,000.00",
+    "New Loan Balance": "USD 40,000,000.00",
+    "Principal Payment": "USD 10,000,000.00",
+    "Interest Payment": "USD 1,250,000.00",
+    "Total Payment Due": "USD 11,250,000.00"
+  },
+  "duplicate_emails": []
+}
+```

@@ -1,0 +1,29 @@
+```json
+{
+  "request_types": [
+    {
+      "type": "Adjustment",
+      "subtype": [],
+      "confidence_score": "0.99",
+      "reasoning": "The email explicitly mentions an interest rate adjustment and provides details on the previous and new rates, as well as updated loan balances, confirming an adjustment request."
+    },
+    {
+      "type": "Commitment Change",
+      "subtype": ["Decrease"],
+      "confidence_score": "0.95",
+      "reasoning": "The email details a change in loan commitment, specifically a decrease from USD 85,000,000.00 to USD 72,500,000.00. This clearly indicates a decrease in the loan commitment."
+    }
+  ],
+  "extracted_information": {
+    "account_number": "987654321",
+    "previous_interest_rate": "4.95%",
+    "new_interest_rate": "5.35%",
+    "effective_date": "April 10, 2025",
+    "new_loan_balance": "USD 72,500,000.00",
+    "previous_loan_balance": "USD 85,000,000.00",
+    "payment_due_date": "April 20, 2025",
+    "payment_amount": "USD 3,125,000.00"
+  },
+  "duplicate_emails": []
+}
+```
