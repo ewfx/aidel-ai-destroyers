@@ -3,6 +3,9 @@ from time import sleep
 
 from dotenv import load_dotenv
 from google import genai
+
+from process_email import process_eml_file
+
 load_dotenv()
 
 
@@ -13,6 +16,7 @@ def get_request_types(mail_content, file_name):
     prompt = f"""
         **Task**: Process the following email content, and the attachments after deciding their type like pdf or eml or anything to extract request types, subtypes, the confidence score for that along with the reasoning, and other valuable information.
         Also remove duplicate emails based on their content.
+        Prioritize the main gemail content over the attachments content.
         The request types and subtypes are as follows, and they should be populated in all cases:
         "Adjustment": [],
         "AU Transfer": [],
@@ -26,7 +30,7 @@ def get_request_types(mail_content, file_name):
         {mail_content}
 
         **Output Format**:
-        Just give output in this format with nothing else. No need to write json or anything.
+        Just give output in this format with nothing else. No need to write json or ``` or anything.
         {{
           "request_types": [
             {{
@@ -58,6 +62,6 @@ def get_request_types(mail_content, file_name):
 
 mails_dir = 'mails'
 for mail_file in os.listdir(mails_dir):
-    with open(os.path.join(mails_dir, mail_file), 'r') as file:
-        content = file.read()
-        get_request_types(content, file.name)
+    if mail_file.endswith('.eml'):
+        content = process_eml_file(os.path.join(mails_dir, mail_file))
+        get_request_types(content, mail_file)
